@@ -1,0 +1,53 @@
+[
+  {
+    "word": "za",
+    "translation": {
+      "de": "ich",
+      "es": "yo",
+      "en": "I"
+    },
+    "category": {
+      "de": "Pronomen",
+      "es": "pronombre",
+      "en": "pronoun"
+    },
+    "pronounciation": {
+      "audio": "/admin/audio_files/mp3/pronouns/za.mp3",
+      "ipa": "[za:]"
+    }
+  },
+  {
+    "word": "zu",
+    "translation": {
+      "de": "du",
+      "en": "you",
+      "es": "tú"
+    },
+    "category": {
+      "de": "Pronomen",
+      "en": "pronoun",
+      "es": "pronombre"
+    },
+    "pronounciation": {
+      "audio": "/admin/audio_files/mp3/pronouns/zu.mp3",
+      "ipa": "[zu:]"
+    }
+  },
+  {
+    "word": "vo",
+    "translation": {
+      "de": "er",
+      "en": "he",
+      "es": "él"
+    },
+    "category": {
+      "de": "Pronomen",
+      "en": "pronoun",
+      "es": "pronombre"
+    },
+    "pronounciation": {
+      "audio": "/admin/audio_files/mp3/pronouns/vo.mp3",
+      "ipa": "[]"
+    }
+  }
+]
